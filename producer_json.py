@@ -4,7 +4,7 @@ import random
 from kafka import KafkaProducer
 from sensor_utils import generar_lectura
 
-TOPIC = "22535"
+TOPIC = "22155"
 
 
 def main():
