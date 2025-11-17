@@ -2,7 +2,7 @@ from kafka import KafkaConsumer
 import matplotlib.pyplot as plt
 from sensor_utils import decode_lectura
 
-TOPIC = "22535"
+TOPIC = "22155"
 
 
 def main():

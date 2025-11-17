@@ -3,7 +3,7 @@ from collections import deque
 from kafka import KafkaConsumer
 import matplotlib.pyplot as plt
 
-TOPIC = "22535"
+TOPIC = "22155"
 
 
 def main():
